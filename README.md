@@ -42,11 +42,11 @@ Additionally, there is another program file named "make_into_image.py" that can 
         <p align="center"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/f33c6dca-10d4-4b7c-a89c-3a366b6f7de3" alt="Albert-Einstein ASCII Art Output Image"></p>
     </div>
     <div style="flex-basis: 48%;">
-        <p align="center"><strong>R</strong></p>
+        <p align="center"><strong>Mona Lisa</strong></p>
         <p align="center"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/b2c18d4b-636f-4a39-a538-82de3b502590" alt="R"></p>
     </div>
     <div style="flex-basis: 48%;">
-        <p align="center"><strong>R ASCII Art Output Image</strong></p>
+        <p align="center"><strong>Mona Lisa ASCII Art Output Image</strong></p>
         <p align="center"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/08ae02cc-1470-4e71-a5bd-e7e925567768" alt="R ASCII Art Output Image"></p>
     </div>
 </div>
