@@ -24,12 +24,12 @@ Additionally, there is another program file named "make_into_image.py" that can 
 1. Run the `ascii_art_generator.py` script to generate ASCII art.
 
 2. Run the `make_into_image.py` script to convert the generated ASCII art back into an image.
-![Albert-Einstein-Pictures](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/d3adadee-970a-4522-8152-63fbb736f669)
+[Albert-Einstein-Pictures](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/d3adadee-970a-4522-8152-63fbb736f669)
 ![Albert-Einstein-Pictures_ascii_artoutput_image](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/5426c4dd-163d-4c3f-9a0e-b2884101d4bc)
-![Albert-Einstein](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/336cd798-6f72-4305-959d-5678804e1feb)
+[Albert-Einstein](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/336cd798-6f72-4305-959d-5678804e1feb)
 ![Albert-Einstein_ascii_artoutput_image](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/f33c6dca-10d4-4b7c-a89c-3a366b6f7de3)
 ![R](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/b2c18d4b-636f-4a39-a538-82de3b502590)
-![R_ascii_artoutput_image](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/08ae02cc-1470-4e71-a5bd-e7e925567768)
+[R_ascii_artoutput_image](https://github.com/gamalthecreator/ASCIIfy/assets/133122190/08ae02cc-1470-4e71-a5bd-e7e925567768)
 
 
 ## Using make_into_image.py
