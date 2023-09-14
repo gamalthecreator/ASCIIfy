@@ -50,8 +50,5 @@ Additionally, there is another program file named "make_into_image.py" that can 
 
 - These programs are intended for educational and entertainment purposes.
 
-## License
-This program is provided under the MIT License. You are free to modify and distribute it as per the terms of the license.
-
 ## Contact
 If you have any questions or suggestions, feel free to contact me at s-gamal.shehata@zewailcity.edu.eg
