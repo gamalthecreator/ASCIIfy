@@ -26,12 +26,10 @@ Additionally, there is another program file named "make_into_image.py" that can 
 2. Run the `make_into_image.py` script to convert the generated ASCII art back into an image.
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="flex-basis: 48%;">
-        <p align="right"><strong>Albert-Einstein-Pictures</strong></p>
-        <p align="right"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/d3adadee-970a-4522-8152-63fbb736f669" alt="Albert-Einstein-Pictures"></p>
-    </div>
-    <div style="flex-basis: 48%;">
-        <p align="left"><strong>Albert-Einstein-Pictures ASCII Art Output Image</strong></p>
-        <p align="left"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/5426c4dd-163d-4c3f-9a0e-b2884101d4bc" alt="Albert-Einstein-Pictures ASCII Art Output Image"></p>
+        <p align="center"><strong>Albert-Einstein-Pictures</strong></p>
+        <p align="center"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/d3adadee-970a-4522-8152-63fbb736f669" alt="Albert-Einstein-Pictures"></p>
+        <p align="center"><strong>Albert-Einstein-Pictures ASCII Art Output Image</strong></p>
+        <p align="center"><img src="https://github.com/gamalthecreator/ASCIIfy/assets/133122190/5426c4dd-163d-4c3f-9a0e-b2884101d4bc" alt="Albert-Einstein-Pictures ASCII Art Output Image"></p>
     </div>
     <div style="flex-basis: 48%;">
         <p align="center"><strong>Albert-Einstein</strong></p>
